@@ -27,3 +27,4 @@ GET method is the native method to fetch;
  setAttribute will set something inside that tag html;
  innerHTML add html text inside that tag (setAttribute);
  appendChild will send a "child" to a function set before.
+ https://edustadler.github.io
