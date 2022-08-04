@@ -2,7 +2,8 @@ Hello, I created a short tutorial about consume json from api with fetch.
 - Why?
 
 Because I need improve my english (as can you see it hahaha) and also because I did want to something new in my github studying JS.
-I hope you Enjoy! :)
+ That's my first project like that so I hope you Enjoy! :)
+ https://edustadler.github.io
 
 
 
@@ -27,4 +28,3 @@ GET method is the native method to fetch;
  setAttribute will set something inside that tag html;
  innerHTML add html text inside that tag (setAttribute);
  appendChild will send a "child" to a function set before.
- https://edustadler.github.io
