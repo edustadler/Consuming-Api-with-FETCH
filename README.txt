@@ -20,7 +20,7 @@ GET method is the native method to fetch;
 
 **
 
- I took the id "fill_list" and create a const for it;
+ I took the id "#list" and create a const for it;
  with ".map" I going to navegate to "data"  and return something;
  ".map" has a parameter 'item' and will construct in a loop every item from api;
  createElement has the same which you'd code in HTML;
